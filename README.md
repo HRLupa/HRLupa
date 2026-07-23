@@ -1,4 +1,4 @@
-[[Banner/waiting screen](/banner.jpg)](https://docs.google.com/spreadsheets/d/1EDEnH4NBZ_jRTlUTTp8WNjOYX3n9T7GdECEzr0Nr1aQ/edit?usp=sharing)
+[![Banner/waiting screen](/banner.jpg)](https://docs.google.com/spreadsheets/d/1EDEnH4NBZ_jRTlUTTp8WNjOYX3n9T7GdECEzr0Nr1aQ/edit?usp=sharing)
 ## Hi there 👋
 
 - 🌱 I'm currently learning more about forensics, web development, and clean logging conventions.
