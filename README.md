@@ -1,5 +1,10 @@
+![Banner](/banner.jpg)
 ## Hi there 👋
 
+- 🌱 I'm currently learning more about forensics, web development, and clean logging conventions.
+- 😼 I'm interested in mastering Python, on which I already have strong foundations and looking forward to discovering new libraries to widen my competences. I code most of my projects in Python.
+- 🤔 I'd like to learn more about C and Javascript, in which I have some knowledge basis, but lack experience.
+- 📫 Contact : `hrlupa` on Discord
 <!--
 **HRLupa/HRLupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
