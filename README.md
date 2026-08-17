@@ -1,8 +1,8 @@
-[![Banner/waiting screen](/banner.jpg)](https://docs.google.com/spreadsheets/d/1EDEnH4NBZ_jRTlUTTp8WNjOYX3n9T7GdECEzr0Nr1aQ/edit?usp=sharing)
+[![Banner/waiting screen](./banner.jpg)](https://docs.google.com/spreadsheets/d/1EDEnH4NBZ_jRTlUTTp8WNjOYX3n9T7GdECEzr0Nr1aQ/edit?usp=sharing)
 ## Hi there 👋
 
 - 🌱 I'm currently learning more about forensics, web development, and clean logging conventions.
-- 😼 I'm interested in mastering Python, on which I already have strong foundations and looking forward to discovering new libraries to widen my competences. I code most of my projects in Python.
+- 😼 I'm interested in mastering Python, on which I already have strong foundations and looking forward to discovering new libraries to widen my competences. I code most of my projects in Python. My most advanced projects are [TheGreatGuess](https://www.github.com/HRLupa/TheGreatGuess) and [Vocabulaire](https://github.com/HRLupa/Vocabulaire).
 - 🤔 I'd like to learn more about C and Javascript, in which I have some knowledge basis, but lack experience.
 - 📫 Contact : [hrlupa](https://discord.com/users/545300661302984714) on Discord
 <!--
